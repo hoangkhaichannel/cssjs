@@ -1,5 +1,5 @@
 
-	var url_popup = 'https://giaxehoivinfast.com/xe-vinfast/gia-xe-vinfast-lux-a2-0/';
+	var url_popup = 'ototoyotahungvuong.blogspot.com';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
